@@ -43,8 +43,8 @@ applyConstraints(constraints)
 ### Return value
 
 A {{jsxref("Promise")}} which resolves when the constraints have been successfully
-applied. If the constraints cannot be applied, the promise is rejected with a
-{{domxref("MediaStreamError")}} whose name is `OverconstrainedError`, to
+applied. If the constraints cannot be applied, the promise is rejected with an
+{{domxref("OverConstrainedError")}}, to
 indicate that the constraints could not be met. This can happen if the specified
 constraints are too strict to find a match when attempting to configure the track.
 
