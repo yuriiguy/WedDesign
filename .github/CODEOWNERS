@@ -36,8 +36,8 @@
 # ----------------------------------------------------------------------------
 # ВЛАСНИК(И) АНГЛІЙСЬКОГО ВМІСТУ JAVASCRIPT
 # ----------------------------------------------------------------------------
-/files/en-us/web/javascript/    @mdn/yari-content-javascript
-/files/en-us/learn/javascript/    @mdn/yari-content-javascript
+# /files/en-us/web/javascript/    @mdn/yari-content-javascript
+# /files/en-us/learn/javascript/    @mdn/yari-content-javascript
 
 # ----------------------------------------------------------------------------
 # ВЛАСНИК(И) АНГЛІЙСЬКОГО ВМІСТУ HTTP
@@ -78,4 +78,4 @@
 # Це @schalkneethling, тому що робочий процес автоматичного об’єднання GHA використовує мій PAT і призначить мені.
 # Якщо ми додамо іншого рецензента, автоматичне об’єднання перестане бути автоматичним.
 # /package.json @schalkneethling
-/yarn.lock    @schalkneethling
+# /yarn.lock    @schalkneethling
