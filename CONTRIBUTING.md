@@ -1,4 +1,4 @@
-# MDN Web Docs contribution guide
+# Посібник із внесення до MDN Web Docs
 
 Thanks for taking the time to contribute to [MDN Web Docs](https://developer.mozilla.org)! :tada:
 
