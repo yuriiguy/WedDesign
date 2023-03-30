@@ -2,7 +2,7 @@ name: Update InterfaceData.json
 
 on:
   schedule:
-    # picking Fridays as webref IDL releases tend to be pushed on Thursdays
+    # вибір по п’ятницях, оскільки релізи webref IDL, як правило, випускаються по четвергах
     - cron: "0 0 * * 6"
   workflow_dispatch:
 
