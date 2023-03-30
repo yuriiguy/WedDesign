@@ -4,34 +4,34 @@
 # Порядок важливий. Останній відповідний шаблон має пріоритет. Для отримання більш детальної інформації див:
 # https://docs.github.com/en/free-pro-team@latest/github/creating-cloning-and-archiving-repositories/about-code-owners
 # ----------------------------------------------------------------------------
-
+#
 # ----------------------------------------------------------------------------
 # ВЛАСНИКИ ЗА ЗАМОВЧУВАННЯМ
 # ----------------------------------------------------------------------------
-*    @mdn/core-yari-content
+# *    @mdn/core-yari-content
 
 # ----------------------------------------------------------------------------
 # ВЛАСНИК(И) АНГЛІЙСЬКОГО ВМІСТУ ЗА ЗАМОВЧУВАННЯМ
 # ----------------------------------------------------------------------------
-/files/en-us/    @mdn/yari-content-mdn
+# /files/en-us/    @mdn/yari-content-mdn
 
 # ----------------------------------------------------------------------------
 # ВЛАСНИК(И) АНГЛІЙСЬКОГО ВМІСТУ ВЕБ-ДОСТУПНОСТІ
 # ----------------------------------------------------------------------------
-/files/en-us/web/accessibility/    @mdn/yari-content-accessibility
-/files/en-us/learn/accessibility/    @mdn/yari-content-accessibility
+# /files/en-us/web/accessibility/    @mdn/yari-content-accessibility
+# /files/en-us/learn/accessibility/    @mdn/yari-content-accessibility
 
 # ----------------------------------------------------------------------------
 # ВЛАСНИК(И) АНГЛІЙСЬКОГО ВМІСТУ CSS 
 # ----------------------------------------------------------------------------
-/files/en-us/web/css/    @mdn/yari-content-css
-/files/en-us/learn/css/    @mdn/yari-content-css
+# /files/en-us/web/css/    @mdn/yari-content-css
+# /files/en-us/learn/css/    @mdn/yari-content-css
 
 # ----------------------------------------------------------------------------
 # ВЛАСНИК(И) АНГЛІЙСЬКОГО ВМІСТУ HTML
 # ----------------------------------------------------------------------------
-/files/en-us/web/html/    @mdn/yari-content-html
-/files/en-us/learn/html/    @mdn/yari-content-html
+# /files/en-us/web/html/    @mdn/yari-content-html
+# /files/en-us/learn/html/    @mdn/yari-content-html
 
 # ----------------------------------------------------------------------------
 # ВЛАСНИК(И) АНГЛІЙСЬКОГО ВМІСТУ JAVASCRIPT
@@ -48,22 +48,22 @@
 # ----------------------------------------------------------------------------
 # ВЛАСНИК(И) АНГЛІЙСЬКОГО ВМІСТУ WEB API
 # ----------------------------------------------------------------------------
-/files/en-us/web/api/    @mdn/yari-content-web-api
+# /files/en-us/web/api/    @mdn/yari-content-web-api
 
 # ----------------------------------------------------------------------------
 # EВЛАСНИК(И) АНГЛІЙСЬКОГО ВМІСТУ SVG
 # ----------------------------------------------------------------------------
-/files/en-us/web/svg/    @mdn/yari-content-svg
+# /files/en-us/web/svg/    @mdn/yari-content-svg
 
 # ----------------------------------------------------------------------------
 # ВЛАСНИК(И) АНГЛІЙСЬКОГО ВМІСТУ MOZILLA ADD-ONS
 # ----------------------------------------------------------------------------
-/files/en-us/mozilla/add-ons/    @mdn/yari-content-mozilla-add-ons
+# /files/en-us/mozilla/add-ons/    @mdn/yari-content-mozilla-add-ons
 
 # ----------------------------------------------------------------------------
 # ВЛАСНИК(И) АНГЛІЙСЬКОГО ВМІСТУ MATHML
 # ----------------------------------------------------------------------------
-/files/en-us/web/mathml/    @mdn/content-mathml
+# /files/en-us/web/mathml/    @mdn/content-mathml
 
 
 # ----------------------------------------------------------------------------
