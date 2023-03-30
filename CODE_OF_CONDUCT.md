@@ -1,9 +1,8 @@
-# Community Participation Guidelines
+# Інструкції щодо участі спільноти
 
-This repository is governed by Mozilla's code of conduct and etiquette guidelines.
-For more details, please read the
+Це сховище регулюється кодексом поведінки та правилами етикету Mozilla. Щоб дізнатися більше, прочитайте
 [Mozilla Community Participation Guidelines](https://www.mozilla.org/about/governance/policies/participation/).
 
-## How to Report
+## Як звітувати
 
-For more information on how to report violations of the Community Participation Guidelines, please read our [How to Report](https://www.mozilla.org/about/governance/policies/participation/reporting/) page.
+Щоб дізнатися більше про те, як повідомити про порушення Правил участі в спільноті, прочитайте наш [How to Report](https://www.mozilla.org/about/governance/policies/participation/reporting/) page.
