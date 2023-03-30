@@ -125,14 +125,13 @@ then don't review the pull request — just wait for an approval request.
 
 ## Topic review owners
 
-The following specific topic areas are being reviewed by the kind souls listed
-underneath them. Be kind to them, and thank them for all the help they give
-to this project. If you would like to help with MDN content reviews,
-[get in touch with us][].
+Наступні конкретні тематичні області розглядаються добрими душами, перерахованими під ними.
+BБудьте добрі до них і подякуйте їм за всю допомогу, яку вони надають цьому проекту.
+Якщо ви хочете допомогти з переглядом вмісту MDN, [get in touch with us][].
 
-Note that changes to any content areas not explicitly listed below will be
-handled by the [@core-yari-content](https://github.com/orgs/mdn/teams/core-yari-content)
-team, which currently consists of [@Rumyra](https://github.com/Rumyra/).
+Зауважте, що зміни в будь-яких областях вмісту, які явно не перелічені нижче, будуть оброблені
+[@core-yari-content](https://github.com/orgs/mdn/teams/core-yari-content)
+команда, яка нині складається з [@Rumyra](https://github.com/Rumyra/).
 
 - [Web accessibility content](https://github.com/mdn/content/tree/main/files/en-us/web/accessibility):
   - [@ericwbailey](https://github.com/ericwbailey)
@@ -143,61 +142,59 @@ team, which currently consists of [@Rumyra](https://github.com/Rumyra/).
 - [Server-side learning content](https://github.com/mdn/content/tree/main/files/en-us/learn/server-side):
   - [@hamishwillee](https://github.com/hamishwillee)
 - [MDN meta docs](https://github.com/mdn/content/tree/main/files/en-us/mdn)
-  — the [@yari-content-mdn](https://github.com/orgs/mdn/teams/yari-content-mdn)
-  team, which consists of:
+  — [@yari-content-mdn](https://github.com/orgs/mdn/teams/yari-content-mdn)
+  команда, яка складається:
   - [@Rumyra](https://github.com/Rumyra/)
   - [@Elchi3](https://github.com/Elchi3)
 - [Firefox Developer Tools content](https://github.com/mdn/content/tree/main/files/en-us/tools):
   - [@hamishwillee](https://github.com/hamishwillee)
 - [Mozilla Add-ons reference content](https://github.com/mdn/content/tree/main/files/en-us/mozilla/add-ons)
-  — the [@yari-content-mozilla-add-ons](https://github.com/orgs/mdn/teams/yari-content-mozilla-add-ons)
-  team, which consists of:
+  — [@yari-content-mozilla-add-ons](https://github.com/orgs/mdn/teams/yari-content-mozilla-add-ons)
+  команда, яка складається:
   - [@caitmuenster](https://github.com/caitmuenster)
   - [@rpl](https://github.com/rpl)
   - [@Rob--W](https://github.com/Rob--W)
   - [@zombie](https://github.com/zombie)
   - [@mixedpuppy](https://github.com/mixedpuppy)
 - [HTTP reference content](https://github.com/mdn/content/tree/main/files/en-us/web/http)
-  — the [@yari-content-http](https://github.com/orgs/mdn/teams/yari-content-http)
-  team, which consists of:
+  — [@yari-content-http](https://github.com/orgs/mdn/teams/yari-content-http)
+  команда, яка складається :
   - [@hamishwillee](https://github.com/hamishwillee)
   - [@Elchi3](https://github.com/Elchi3)
   - [@mirunacurtean](https://github.com/mirunacurtean)
 - [CSS reference content](https://github.com/mdn/content/tree/main/files/en-us/web/css)
-  — the [@yari-content-css](https://github.com/orgs/mdn/teams/yari-content-css)
-  team, which consists of:
+  — [@yari-content-css](https://github.com/orgs/mdn/teams/yari-content-css)
+  команда, яка складається f:
   - [@rachelandrew](https://github.com/rachelandrew)
   - [@ericwbailey](https://github.com/ericwbailey)
   - [@mirunacurtean](https://github.com/mirunacurtean)
 - [HTML reference content](https://github.com/mdn/content/tree/main/files/en-us/web/html)
   — the [@yari-content-html](https://github.com/orgs/mdn/teams/yari-content-html)
-  team, which consists of:
+  команда, яка складається :
   - [@rachelandrew](https://github.com/rachelandrew)
   - [@ericwbailey](https://github.com/ericwbailey)
   - [@mirunacurtean](https://github.com/mirunacurtean)
 - [JavaScript reference content](https://github.com/mdn/content/tree/main/files/en-us/web/javascript)
-  — the [@yari-content-javascript](https://github.com/orgs/mdn/teams/yari-content-javascript)
-  team, which consists of:
+  — [@yari-content-javascript](https://github.com/orgs/mdn/teams/yari-content-javascript)
+  команда, яка складається :
   - [@Rumyra](https://github.com/Rumyra)
   - [@sideshowbarker](https://github.com/sideshowbarker)
   - [@Elchi3](https://github.com/Elchi3)
 - [Web API reference content](https://github.com/mdn/content/tree/main/files/en-us/web/api)
-  — the [@yari-content-web-api](https://github.com/orgs/mdn/teams/yari-content-web-api)
-  team, which consists of:
+  — [@yari-content-web-api](https://github.com/orgs/mdn/teams/yari-content-web-api)
+  команда, яка складається :
   - [@Rumyra](https://github.com/Rumyra)
   - [@sideshowbarker](https://github.com/sideshowbarker)
   - [@Elchi3](https://github.com/Elchi3)
   - [@jpmedley](https://github.com/jpmedley)
 - [SVG reference content](https://github.com/mdn/content/tree/main/files/en-us/web/svg)
-  — the [@yari-content-svg](https://github.com/orgs/mdn/teams/yari-content-svg)
-  team, which consists of:
+  — [@yari-content-svg](https://github.com/orgs/mdn/teams/yari-content-svg)
+  команда, яка складається з:
   - [@Ryuno-Ki](https://github.com/Ryuno-Ki)
 
-### Reviewer alumni
+### Рецензент випускників
 
-The following folks used to be in one or more of our review teams, but no
-longer have the time to contribute; we want to give them our sincere thanks
-for all their help.
+Наступні люди раніше були в одній або кількох наших групах перевірки, але більше не мають часу робити внески; ми хочемо висловити їм нашу щиру подяку за всю їхню допомогу.
 
 - [@vkWeb](https://github.com/vkWeb/)
 
