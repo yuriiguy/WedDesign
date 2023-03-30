@@ -1,28 +1,25 @@
-# Licenses for MDN content
+# Ліцензії на вміст MDN
 
-MDN's content (including prose and code examples) is entirely available
-under various open source licenses. This file covers the types of
-content we provide and what licenses are in effect for each.
+Вміст MDN (включаючи прозу та приклади коду) повністю доступний за різними ліцензіями з відкритим кодом. Цей файл охоплює типи вмісту, 
+який ми надаємо, і чинні ліцензії для кожного з них.
 
-## License for all prose content
+## Ліцензія на весь прозовий контент
 
-All prose content is available under
+Весь прозовий вміст доступний за посиланням
 ([CC-BY-SA 2.5](https://creativecommons.org/licenses/by-sa/2.5/)).
 
-### Text of CC-BY-SA-2.5 license
+### Текст ліцензії CC-BY-SA-2.5
 
 ```
 Creative Commons Attribution-ShareAlike 2.5
-
 CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE LEGAL SERVICES. DISTRIBUTION OF THIS LICENSE DOES NOT CREATE AN ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS INFORMATION ON AN "AS-IS" BASIS. CREATIVE COMMONS MAKES NO WARRANTIES REGARDING THE INFORMATION PROVIDED, AND DISCLAIMS LIABILITY FOR DAMAGES RESULTING FROM ITS USE.
 
-License
-
+Ліцензія
 THE WORK (AS DEFINED BELOW) IS PROVIDED UNDER THE TERMS OF THIS CREATIVE COMMONS PUBLIC LICENSE ("CCPL" OR "LICENSE"). THE WORK IS PROTECTED BY COPYRIGHT AND/OR OTHER APPLICABLE LAW. ANY USE OF THE WORK OTHER THAN AS AUTHORIZED UNDER THIS LICENSE OR COPYRIGHT LAW IS PROHIBITED.
 
 BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE BOUND BY THE TERMS OF THIS LICENSE. THE LICENSOR GRANTS YOU THE RIGHTS CONTAINED HERE IN CONSIDERATION OF YOUR ACCEPTANCE OF SUCH TERMS AND CONDITIONS.
 
-    1. Definitions
+    1. визначення
         a. "Collective Work" means a work, such as a periodical issue, anthology or encyclopedia, in which the Work in its entirety in unmodified form, along with a number of other contributions, constituting separate and independent works in themselves, are assembled into a collective whole. A work that constitutes a Collective Work will not be considered a Derivative Work (as defined below) for the purposes of this License.
         b. "Derivative Work" means a work based upon the Work or upon the Work and other pre-existing works, such as a translation, musical arrangement, dramatization, fictionalization, motion picture version, sound recording, art reproduction, abridgment, condensation, or any other form in which the Work may be recast, transformed, or adapted, except that a work that constitutes a Collective Work will not be considered a Derivative Work for the purpose of this License. For the avoidance of doubt, where the Work is a musical composition or sound recording, the synchronization of the Work in timed-relation with a moving image ("synching") will be considered a Derivative Work for the purpose of this License.
         c. "Licensor" means the individual or entity that offers the Work under the terms of this License.
@@ -30,8 +27,8 @@ BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE B
         e. "Work" means the copyrightable work of authorship offered under the terms of this License.
         f. "You" means an individual or entity exercising rights under this License who has not previously violated the terms of this License with respect to the Work, or who has received express permission from the Licensor to exercise rights under this License despite a previous violation.
         g. "License Elements" means the following high-level license attributes as selected by Licensor and indicated in the title of this License: Attribution, ShareAlike.
-    2. Fair Use Rights. Nothing in this license is intended to reduce, limit, or restrict any rights arising from fair use, first sale or other limitations on the exclusive rights of the copyright owner under copyright law or other applicable laws.
-    3. License Grant. Subject to the terms and conditions of this License, Licensor hereby grants You a worldwide, royalty-free, non-exclusive, perpetual (for the duration of the applicable copyright) license to exercise the rights in the Work as stated below:
+    2. Права добросовісного використання. Ніщо в цій ліцензії не має на меті зменшити, обмежити чи обмежити будь-які права, що випливають із добросовісного використання, першого продажу чи інших обмежень виключних прав власника авторських прав відповідно до закону про авторське право чи інших застосовних законів.
+    3. Надання ліцензії. Згідно з положеннями та умовами цієї Ліцензії, Ліцензіар цим надає Вам всесвітню, безоплатну, невиключну, безстрокову (протягом дії відповідного авторського права) ліцензію на використання прав на Твір, як зазначено нижче:
         a. to reproduce the Work, to incorporate the Work into one or more Collective Works, and to reproduce the Work as incorporated in the Collective Works;
         b. to create and reproduce Derivative Works;
         c. to distribute copies or phonorecords of, display publicly, perform publicly, and perform publicly by means of a digital audio transmission the Work including as incorporated in Collective Works;
@@ -41,19 +38,19 @@ BY EXERCISING ANY RIGHTS TO THE WORK PROVIDED HERE, YOU ACCEPT AND AGREE TO BE B
             ii. Mechanical Rights and Statutory Royalties. Licensor waives the exclusive right to collect, whether individually or via a music rights society or designated agent (e.g. Harry Fox Agency), royalties for any phonorecord You create from the Work ("cover version") and distribute, subject to the compulsory license created by 17 USC Section 115 of the US Copyright Act (or the equivalent in other jurisdictions).
         f. Webcasting Rights and Statutory Royalties. For the avoidance of doubt, where the Work is a sound recording, Licensor waives the exclusive right to collect, whether individually or via a performance-rights society (e.g. SoundExchange), royalties for the public digital performance (e.g. webcast) of the Work, subject to the compulsory license created by 17 USC Section 114 of the US Copyright Act (or the equivalent in other jurisdictions).
 
-    The above rights may be exercised in all media and formats whether now known or hereafter devised. The above rights include the right to make such modifications as are technically necessary to exercise the rights in other media and formats. All rights not expressly granted by Licensor are hereby reserved.
-    4. Restrictions. The license granted in Section 3 above is expressly made subject to and limited by the following restrictions:
+   Вищевказані права можуть використовуватися в усіх носіях і форматах, відомих зараз чи створених у майбутньому. Вищезазначені права включають право вносити такі зміни, які є технічно необхідними для реалізації прав в інших носіях і форматах. Усі права, прямо не надані Ліцензіаром, цим захищені.
+    4. Обмеження. Ліцензія, надана в Розділі 3 вище, явно підлягає та обмежується наведеними нижче обмеженнями:
         a. You may distribute, publicly display, publicly perform, or publicly digitally perform the Work only under the terms of this License, and You must include a copy of, or the Uniform Resource Identifier for, this License with every copy or phonorecord of the Work You distribute, publicly display, publicly perform, or publicly digitally perform. You may not offer or impose any terms on the Work that alter or restrict the terms of this License or the recipients' exercise of the rights granted hereunder. You may not sublicense the Work. You must keep intact all notices that refer to this License and to the disclaimer of warranties. You may not distribute, publicly display, publicly perform, or publicly digitally perform the Work with any technological measures that control access or use of the Work in a manner inconsistent with the terms of this License Agreement. The above applies to the Work as incorporated in a Collective Work, but this does not require the Collective Work apart from the Work itself to be made subject to the terms of this License. If You create a Collective Work, upon notice from any Licensor You must, to the extent practicable, remove from the Collective Work any credit as required by clause 4(c), as requested. If You create a Derivative Work, upon notice from any Licensor You must, to the extent practicable, remove from the Derivative Work any credit as required by clause 4(c), as requested.
         b. You may distribute, publicly display, publicly perform, or publicly digitally perform a Derivative Work only under the terms of this License, a later version of this License with the same License Elements as this License, or a Creative Commons iCommons license that contains the same License Elements as this License (e.g. Attribution-ShareAlike 2.5 Japan). You must include a copy of, or the Uniform Resource Identifier for, this License or other license specified in the previous sentence with every copy or phonorecord of each Derivative Work You distribute, publicly display, publicly perform, or publicly digitally perform. You may not offer or impose any terms on the Derivative Works that alter or restrict the terms of this License or the recipients' exercise of the rights granted hereunder, and You must keep intact all notices that refer to this License and to the disclaimer of warranties. You may not distribute, publicly display, publicly perform, or publicly digitally perform the Derivative Work with any technological measures that control access or use of the Work in a manner inconsistent with the terms of this License Agreement. The above applies to the Derivative Work as incorporated in a Collective Work, but this does not require the Collective Work apart from the Derivative Work itself to be made subject to the terms of this License.
         c. If you distribute, publicly display, publicly perform, or publicly digitally perform the Work or any Derivative Works or Collective Works, You must keep intact all copyright notices for the Work and provide, reasonable to the medium or means You are utilizing: (i) the name of the Original Author (or pseudonym, if applicable) if supplied, and/or (ii) if the Original Author and/or Licensor designate another party or parties (e.g. a sponsor institute, publishing entity, journal) for attribution in Licensor's copyright notice, terms of service or by other reasonable means, the name of such party or parties; the title of the Work if supplied; to the extent reasonably practicable, the Uniform Resource Identifier, if any, that Licensor specifies to be associated with the Work, unless such URI does not refer to the copyright notice or licensing information for the Work; and in the case of a Derivative Work, a credit identifying the use of the Work in the Derivative Work (e.g., "French translation of the Work by Original Author," or "Screenplay based on original Work by Original Author"). Such credit may be implemented in any reasonable manner; provided, however, that in the case of a Derivative Work or Collective Work, at a minimum such credit will appear where any other comparable authorship credit appears and in a manner at least as prominent as such other comparable authorship credit.
-    5. Representations, Warranties and Disclaimer
+    5. Заяви, гарантії та відмова від відповідальності
 
     UNLESS OTHERWISE AGREED TO BY THE PARTIES IN WRITING, LICENSOR OFFERS THE WORK AS-IS AND MAKES NO REPRESENTATIONS OR WARRANTIES OF ANY KIND CONCERNING THE MATERIALS, EXPRESS, IMPLIED, STATUTORY OR OTHERWISE, INCLUDING, WITHOUT LIMITATION, WARRANTIES OF TITLE, MERCHANTABILITY, FITNESS FOR A PARTICULAR PURPOSE, NONINFRINGEMENT, OR THE ABSENCE OF LATENT OR OTHER DEFECTS, ACCURACY, OR THE PRESENCE OF ABSENCE OF ERRORS, WHETHER OR NOT DISCOVERABLE. SOME JURISDICTIONS DO NOT ALLOW THE EXCLUSION OF IMPLIED WARRANTIES, SO SUCH EXCLUSION MAY NOT APPLY TO YOU.
-    6. Limitation on Liability. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
-    7. Termination
+    6. Обмеження відповідальності. EXCEPT TO THE EXTENT REQUIRED BY APPLICABLE LAW, IN NO EVENT WILL LICENSOR BE LIABLE TO YOU ON ANY LEGAL THEORY FOR ANY SPECIAL, INCIDENTAL, CONSEQUENTIAL, PUNITIVE OR EXEMPLARY DAMAGES ARISING OUT OF THIS LICENSE OR THE USE OF THE WORK, EVEN IF LICENSOR HAS BEEN ADVISED OF THE POSSIBILITY OF SUCH DAMAGES.
+    7. Припинення
         a. This License and the rights granted hereunder will terminate automatically upon any breach by You of the terms of this License. Individuals or entities who have received Derivative Works or Collective Works from You under this License, however, will not have their licenses terminated provided such individuals or entities remain in full compliance with those licenses. Sections 1, 2, 5, 6, 7, and 8 will survive any termination of this License.
         b. Subject to the above terms and conditions, the license granted here is perpetual (for the duration of the applicable copyright in the Work). Notwithstanding the above, Licensor reserves the right to release the Work under different license terms or to stop distributing the Work at any time; provided, however that any such election will not serve to withdraw this License (or any other license that has been, or is required to be, granted under the terms of this License), and this License will continue in full force and effect unless terminated as stated above.
-    8. Miscellaneous
+    8. Різне
         a. Each time You distribute or publicly digitally perform the Work or a Collective Work, the Licensor offers to the recipient a license to the Work on the same terms and conditions as the license granted to You under this License.
         b. Each time You distribute or publicly digitally perform a Derivative Work, Licensor offers to the recipient a license to the original Work on the same terms and conditions as the license granted to You under this License.
         c. If any provision of this License is invalid or unenforceable under applicable law, it shall not affect the validity or enforceability of the remainder of the terms of this License, and without further action by the parties to this agreement, such provision shall be reformed to the minimum extent necessary to make such provision valid and enforceable.
@@ -67,25 +64,21 @@ Except for the limited purpose of indicating to the public that the Work is lice
 Creative Commons may be contacted at http://creativecommons.org/.
 ```
 
-## Licenses for code examples and snippets
+## Ліцензії на приклади коду та фрагментів
 
-### Added on or after August 20, 2010
-
+### Додано 20 серпня 2010 р. або пізніше
 Code examples and snippets added on or after August 20, 2010 are in the public domain
 ([CC0](https://creativecommons.org/publicdomain/zero/1.0/legalcode)). No licensing notice
 is necessary, but if you need one, you can use:
-
 ```
 Any copyright is dedicated to the Public Domain. http://creativecommons.org/publicdomain/zero/1.0/
 ```
 
-#### Text of CC0 license
+#### Текст ліцензії CC0
 
 ```
-Creative Commons Legal Code
-
+Правовий кодекс Creative Commons
 CC0 1.0 Universal
-
     CREATIVE COMMONS CORPORATION IS NOT A LAW FIRM AND DOES NOT PROVIDE
     LEGAL SERVICES. DISTRIBUTION OF THIS DOCUMENT DOES NOT CREATE AN
     ATTORNEY-CLIENT RELATIONSHIP. CREATIVE COMMONS PROVIDES THIS
@@ -95,8 +88,7 @@ CC0 1.0 Universal
     THE USE OF THIS DOCUMENT OR THE INFORMATION OR WORKS PROVIDED
     HEREUNDER.
 
-Statement of Purpose
-
+Заява мети
 The laws of most jurisdictions throughout the world automatically confer
 exclusive Copyright and Related Rights (defined below) upon the creator
 and subsequent owner(s) (each and all, an "owner") of an original work of
@@ -121,7 +113,7 @@ elects to apply CC0 to the Work and publicly distribute the Work under its
 terms, with knowledge of his or her Copyright and Related Rights in the
 Work and the meaning and intended legal effect of CC0 on those rights.
 
-1. Copyright and Related Rights. A Work made available under CC0 may be
+1. Авторське право та суміжні права. A Work made available under CC0 may be
 protected by copyright and related or neighboring rights ("Copyright and
 Related Rights"). Copyright and Related Rights include, but are not
 limited to, the following:
@@ -183,8 +175,7 @@ Rights in the Work or (ii) assert any associated claims and causes of
 action with respect to the Work, in either case contrary to Affirmer's
 express Statement of Purpose.
 
-4. Limitations and Disclaimers.
-
+4. Обмеження та застереження.
  a. No trademark or patent rights held by Affirmer are waived, abandoned,
     surrendered, licensed or otherwise affected by this document.
  b. Affirmer offers the Work as-is and makes no representations or
@@ -205,18 +196,15 @@ express Statement of Purpose.
     this CC0 or use of the Work.
 ```
 
-### Added before August 20, 2010
-
+### Додано до 20 серпня 2010 р.
 Code examples and snippets added before August 20, 2010 are available under
 the [MIT license](https://opensource.org/licenses/MIT). You should insert
 the following attribution information into the MIT license template:
-
 ```
 © <date of last page revision> <name of person who created it>
 ```
 
-#### Text of MIT license template
-
+#### Текст шаблону ліцензії MIT
 ```
 Copyright <YEAR> <COPYRIGHT HOLDER>
 
@@ -226,8 +214,7 @@ without restriction, including without limitation the rights to use, copy, modif
 publish, distribute, sublicense, and/or sell copies of the Software, and to permit persons
 to whom the Software is furnished to do so, subject to the following conditions:
 
-The above copyright notice and this permission notice shall be included in all copies or
-substantial portions of the Software.
+Наведене вище повідомлення про авторські права та це повідомлення про дозвіл повинні бути включені до всіх копій або значних частин Програмного забезпечення.
 
 THE SOFTWARE IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIED,
 INCLUDING BUT NOT LIMITED TO THE WARRANTIES OF MERCHANTABILITY, FITNESS FOR A PARTICULAR
