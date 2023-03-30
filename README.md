@@ -1,50 +1,50 @@
-# Welcome to MDN Web Docs
+# Ласкаво просимо до веб-документів MDN
 
 ![github-profile](https://user-images.githubusercontent.com/10350960/166113119-629295f6-c282-42c9-9379-af2de5ad4338.png)
 
-[MDN Web Docs][] is an open-source, collaborative project that documents web technologies including CSS, HTML, JavaScript, and Web APIs.
-Alongside detailed reference documentation, we provide extensive learning resources for students and beginners getting started with web development.
+[MDN Web Docs][] - це спільний проект із відкритим вихідним кодом, який документує веб-технології, включаючи CSS, HTML, JavaScript і веб-API.
+Окрім детальної довідкової документації, ми надаємо численні навчальні ресурси для студентів і початківців, які починають роботу з веб-розробкою.
 
-## MDN's mission
+## Місія MDN
 
-MDN's mission is to provide a blueprint for a better internet and empower a new generation of developers and content creators to build it.
+Місія MDN полягає в тому, щоб надати план для кращого Інтернету та надати можливість новому поколінню розробників і творців контенту створювати його.
 
-The strength of MDN Web Docs lies in its vast community of active readers and contributors.
-Since 2005, approximately 45,000 contributors have created the documentation we know and love.
-Together, contributors have created over 45,000 documents that make up an up-to-date, comprehensive, and free resource for web developers worldwide.
+Сила веб-документів MDN полягає у великій спільноті активних читачів і учасників.
+З 2005 року приблизно 45 000 учасників створили документацію, яку ми знаємо та любимо.
+Разом учасники створили понад 45 000 документів, які складають актуальний, вичерпний і безкоштовний ресурс для веб-розробників у всьому світі.
 
-In addition to English-language articles, over 35 volunteers lead translation and localization efforts for Chinese, French, Japanese, Korean, Portuguese, Russian, and Spanish.
+Окрім англомовних статей, понад 35 волонтерів ведуть роботу з перекладу та локалізації китайською, французькою, японською, корейською, португальською, російською та іспанською мовами.
 
-## Build the site
+## Створіть сайт
 
-To set up the site locally, you need to have [Node.js](https://nodejs.org/) and [Yarn](https://yarnpkg.com/) installed.
-You can check if these are installed by running the following commands:
+Щоб налаштувати сайт локально, потрібно мати [Node.js](https://nodejs.org/) i [Yarn](https://yarnpkg.com/) встановлені.
+Ви можете перевірити, чи вони встановлені, виконавши такі команди:
 
 ```bash
 node -v
 yarn -v
 ```
 
-After you have installed Node.js and Yarn, you can install the dependencies using `yarn` and start the local preview:
+Після встановлення Node.js і Yarn ви можете встановити залежності за допомогою `yarn` і почати локальний попередній перегляд:
 
 ```bash
 yarn
 yarn start
 ```
 
-Once started, a live preview is available at `http://localhost:5042/`.
+Після початку попередній перегляд доступний за адресою `http://localhost:5042/`.
 
-## Contribute to MDN Web Docs
+## Зробіть внесок у веб-документи MDN
 
-You can contribute to MDN Web Docs and be a part of our community through content contributions, engineering, or translation work.
-The MDN Web Docs project welcomes contributions from everyone who shares our goals and wants to contribute constructively and respectfully within our community.
+Ви можете зробити внесок у веб-документи MDN і бути частиною нашої спільноти, додаючи вміст, розробляючи чи перекладаючи.
+Проект MDN Web Docs вітає внески від усіх, хто поділяє наші цілі та хоче зробити конструктивний і шанобливий внесок у нашу спільноту.
 
-To find out how to get started, see the [CONTRIBUTING.md](CONTRIBUTING.md) document in this repository.
-By participating in and contributing to our projects and discussions, you acknowledge that you have read and agree to our [Code of Conduct](CODE_OF_CONDUCT.md).
+Щоб дізнатися, як почати, див [CONTRIBUTING.md](CONTRIBUTING.md) документ у цьому сховищі.
+Беручи участь у наших проектах і обговореннях і вносячи в них свій внесок, ви підтверджуєте, що прочитали та погоджуєтеся з нашими [Code of Conduct](CODE_OF_CONDUCT.md).
 
-## Get in touch
+## Будемо на зв'язку
 
-You can communicate with the MDN Web Docs team and community using the [communication channels][].
+Ви можете спілкуватися з командою та спільнотою MDN Web Docs за допомогою [communication channels][].
 
 [communication channels]: https://developer.mozilla.org/en-US/docs/MDN/Community/Communication_channels
 [MDN Web Docs]: https://developer.mozilla.org/
