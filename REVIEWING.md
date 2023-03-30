@@ -15,20 +15,19 @@
 [pull requests](https://github.com/mdn/content/pulls) on this repo, which will
 вимагають швидкого перегляду та об’єднання, щоб переконатися, що сайт не застарів. Це обробляється наступним чином:
 
-1. Different MDN staff members and volunteers have been assigned as "topic
-   review owners", meaning that when a pull request comes in related to a
-   particular topic area of the site (e.g. the CSS reference, or the learning
-   area), it will be assigned to that area's topic review owner(s) and they
-   will receive an email notification asking for a review. This is being
-   handled using a [CODEOWNERS](https://github.com/mdn/content/blob/main/.github/CODEOWNERS)
-   file, in which particular content directories are assigned to the topics
-   review owner's GitHub usernames.
+1. Різні співробітники та волонтери MDN були призначені як «власники тематичного
+   огляду", що означає, що коли надходить запит на отримання, пов’язаний з 
+   певна тематична область сайту (наприклад, посилання на CSS або навчання),
+   його буде призначено власникам(ам) огляду теми цієї області та вони
+   отримають сповіщення електронною поштою з проханням переглянути. Це буде
+   оброблятися за допомогою [CODEOWNERS](https://github.com/mdn/content/blob/main/.github/CODEOWNERS)
+   файл, у якому певні каталоги вмісту призначено темам на ім'я користувача GitHub власника огляду.
 2. Once the review has been done and the pull request has been approved, the
    reviewer should also merge the pull request.
 3. The site will be rebuilt once every 24 hours to ensure that the content
    does not get too stale.
 
-## Review guidelines
+## Рекомендації з огляду 
 
 If you are reviewing MDN content changes, read through the following
 guidelines. There's quite a lot here, but don't worry if you don't review
@@ -104,7 +103,7 @@ the one you are reviewing.
 is a useful resource to help you. Feel free also to ask your team(s) for help
 if you need it.
 
-## Specific reviewer overrides on pull requests
+## Спеціальний рецензент замінює запити на отримання
 
 Some of the pull requests submitted on the `content` repo relate to specific
 workstreams being undertaken by browser vendors or other organizations that
@@ -123,7 +122,7 @@ Therefore, if you receive a pull request review request and then see that
 you have been overridden with another reviewer in the manner described above,
 then don't review the pull request — just wait for an approval request.
 
-## Topic review owners
+## Власники огляду теми
 
 Наступні конкретні тематичні області розглядаються добрими душами, перерахованими під ними.
 BБудьте добрі до них і подякуйте їм за всю допомогу, яку вони надають цьому проекту.
