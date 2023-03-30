@@ -1,25 +1,19 @@
-# Reviewing pull requests
+# Перегляд запитів на отримання
 
-This document describes the review process for content changes on MDN Web Docs,
-and is for use by those who have been tasked with reviewing MDN content PRs.
+Цей документ описує процес перевірки змін вмісту у веб-документах MDN і призначений для використання тими, кому доручено переглядати PR вмісту MDN.
 
-## Process for reviewing content changes
+## Процес перевірки змін вмісту
 
-Content changes we get on MDN are related to a variety of work streams,
-for example:
+Зміни вмісту, які ми отримуємо на MDN, стосуються, наприклад, різноманітних робочих потоків:
 
-- Day-to-day content improvement work — new APIs, new CSS properties, and
-  other significant platform updates and content additions, usually done
-  by MDN staff working for Mozilla, Google, Open Web Docs, Samsung, etc.,
-  but also sometimes by community volunteers.
-- "Drive-by fixes" — small updates done to the site to fix typos, grammatical
-  issues, and technical inaccuracies, usually as they are found by users of MDN.
-- MDN content bug fixes, usually done by volunteers to close issues on this repo.
+- Повсякденна робота над покращенням вмісту — нові API, нові властивості CSS та інші важливі оновлення платформи та доповнення вмісту, як правило, виконується персоналом MDN, який працює на Mozilla, Google, Open Web Docs, Samsung тощо,
+   але також іноді волонтерами громади.
+- «Виправлення» — невеликі оновлення сайту для виправлення помилок, граматичних проблем і технічних неточностей, як правило, коли їх знаходять користувачі MDN.
+— Виправлення помилок у вмісті MDN, які зазвичай виконуються волонтерами для вирішення проблем у цьому репозиторі\.
 
-Regardless of how a content change is done, they will be submitted as
+Незалежно від способу зміни вмісту, вони будуть подані як
 [pull requests](https://github.com/mdn/content/pulls) on this repo, which will
-require rapid reviewing and merging to ensure that the site does not get
-out-of-date. This is being handled as follows:
+вимагають швидкого перегляду та об’єднання, щоб переконатися, що сайт не застарів. Це обробляється наступним чином:
 
 1. Different MDN staff members and volunteers have been assigned as "topic
    review owners", meaning that when a pull request comes in related to a
